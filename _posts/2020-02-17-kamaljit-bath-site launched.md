@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kamaljit BAth, Lazy Man, Launches Site"
+title: "Kamaljit Bath, Lazy Man, Launches Site"
 date: 2020-02-17
 ---
 
