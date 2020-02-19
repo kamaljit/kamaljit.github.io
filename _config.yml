@@ -1,3 +1,5 @@
 name: Kamaljit Bath, Lazy Man
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-slate
